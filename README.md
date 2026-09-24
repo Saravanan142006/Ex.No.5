@@ -2,7 +2,7 @@
 
 ## Comparative Analysis of Different Types of Prompting Patterns with Various Test Scenarios
 
-``` Ranjith Ganesh B | 212223060222 ```
+``` Saravanan M | 212223080050 ```
 ---
 
 ## AIM
